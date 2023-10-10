@@ -1,3 +1,11 @@
+## App Screenshot:
+
+<img src="lz4-compression-app-screenshot.png" alt="App Screenshot" width="100%">
+
+<br>
+<br>
+<br>
+
 # <p><b>Question:</b> Data Compression and Decompression<a href="Full-Stack-Case.pdf" target="_blank">(Open Case)</a></p>
 
 # Project Overview
