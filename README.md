@@ -61,7 +61,7 @@ npm start:dev
 ```
 
 ## Running Tests:
-To run end-to-end tests, use the following command:
+To run end-to-end tests for back end, use the following command:
 ```bash
 npm run test:e2e
 ```
