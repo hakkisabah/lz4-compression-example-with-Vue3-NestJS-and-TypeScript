@@ -16,7 +16,7 @@ describe('AppController (e2e)', () => {
     await app.init();
   });
 
-  it('to send /text endpoint for dataset string', () => {
+  it('to send /text endpoint for dataset string compression', () => {
     return request(app.getHttpServer())
       .post('/text')
       .send({
